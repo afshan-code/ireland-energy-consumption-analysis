@@ -17,7 +17,7 @@ This project analyzes Ireland’s fuel consumption trends across sectors and fue
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Scikit-learn, VADER (ML & Sentiment Analysis)
-- SQL (for data handling)
+- Streamlit for creating dashboard
 - Reddit API (PRAW)
 
 ## Key Findings
